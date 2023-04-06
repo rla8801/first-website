@@ -68,3 +68,15 @@ nav ul li a {
 }
 
 .products ul li
+
+.product-image {
+  position: relative;
+}
+
+.apple-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+}
